@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+we do a little coding
 <!--
 
 **Here are some ideas to get you started:**
